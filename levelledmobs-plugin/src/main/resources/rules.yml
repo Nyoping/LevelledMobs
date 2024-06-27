@@ -162,8 +162,8 @@ presets:
         ranged-attack-damage: 2.0
         creeper-blast-damage: 1.75
         follow-range: 0.25
-        item-drop: 3.0
-        xp-drop: 5.0
+        item-drop: 10.0
+        xp-drop: 10.0
       # Special Multipliers (0.0 Min - 1.0 Max)
         armor-bonus: 0.3
         armor-toughness: 0.3
